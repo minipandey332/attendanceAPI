@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\attendance_try2.props" />
+</Project>
