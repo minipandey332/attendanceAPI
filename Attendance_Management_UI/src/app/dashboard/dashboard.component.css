@@ -1,0 +1,133 @@
+.card-container {
+    display: flex; /* Use flexbox to arrange cards horizontally */
+    justify-content: center;
+    gap : 10px; 
+   
+    width: 100%;
+      }
+  
+  app-card {
+    flex: 1; /* Allow each card to grow and take equal width */
+  }
+  
+
+
+    
+
+    *,
+:before,
+:after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #121212;
+}
+
+.container {
+  width: 7.25em;
+  height: 2.15em;
+  font-size: 4rem;
+  font-family: sans-serif;
+  position: relative;
+}
+
+.container div {
+  position: absolute;
+  left: 0;
+  text-transform: uppercase;
+  width: 100%;
+  display: block;
+  text-align: center;
+}
+
+
+.lower {
+  bottom: 0;
+  height: 100%;
+  background: linear-gradient(180deg, #121212 52.5%, #fff 52.5%);
+  color: transparent;
+  -webkit-background-clip: text;
+  background-clip: text;
+  z-index: 1;
+  animation: moveDown 1.5s ease-in-out 1;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.inside {
+  position: absolute;
+ top: 5%;
+  transform: translateY(-40%);
+  text-align: center;
+  z-index: 2;
+  font-size: 1rem;
+  color: #dc143c;
+  font-weight: bold;
+}
+
+@keyframes moveUp {
+  0%,
+  100% {
+    top: 0;
+  }
+
+  50%,
+  70% {
+    top: -45px;
+  }
+}
+
+@keyframes moveDown {
+  0%,
+  100% {
+    top: 0;
+  }
+
+  50%,
+  70% {
+    top: 30px;
+  }
+}
+
+@media (max-width: 424px) {
+  .container {
+    font-size: 2.5rem;
+  }
+
+  .inside {
+    font-size: 0.75rem;
+  }
+}
+
+@media (max-width: 320px) {
+  .container {
+    font-size: 2rem;
+  }
+
+  .inside {
+    font-size: 0.5rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .container {
+    width: 100%; /* Make the container full-width */
+    font-size: 2rem;
+  }
+
+  .inside {
+    font-size: 0.75rem;
+  }
+}
+
+
+img {
+  max-width: 100%;
+  height: auto;
+}

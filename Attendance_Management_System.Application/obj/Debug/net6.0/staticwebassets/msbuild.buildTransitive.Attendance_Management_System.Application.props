@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Attendance_Management_System.Application.props" />
+</Project>

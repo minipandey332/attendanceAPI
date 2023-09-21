@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Attendance_Management_System.Application.props" />
+</Project>

@@ -1,0 +1,13 @@
+.calendar {
+    padding: 20px;
+ 
+  margin: 0, auto;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  display: flex;
+  flex-direction: column;
+}
+
+/* Media query for screens smaller than 768px (adjust as needed) */
+

@@ -1,0 +1,15 @@
+C:\Users\p1357950\Desktop\Attendance\Attendance_Management_System.Infrastructure\bin\Debug\net6.0\Attendance_Management_System.Infrastructure.deps.json
+C:\Users\p1357950\Desktop\Attendance\Attendance_Management_System.Infrastructure\bin\Debug\net6.0\Attendance_Management_System.Infrastructure.dll
+C:\Users\p1357950\Desktop\Attendance\Attendance_Management_System.Infrastructure\bin\Debug\net6.0\Attendance_Management_System.Infrastructure.pdb
+C:\Users\p1357950\Desktop\Attendance\Attendance_Management_System.Infrastructure\bin\Debug\net6.0\Attendance_Management_System.Domain.dll
+C:\Users\p1357950\Desktop\Attendance\Attendance_Management_System.Infrastructure\bin\Debug\net6.0\Attendance_Management_System.Domain.pdb
+C:\Users\p1357950\Desktop\Attendance\Attendance_Management_System.Infrastructure\obj\Debug\net6.0\Attendance_Management_System.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\p1357950\Desktop\Attendance\Attendance_Management_System.Infrastructure\obj\Debug\net6.0\Attendance_Management_System.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\p1357950\Desktop\Attendance\Attendance_Management_System.Infrastructure\obj\Debug\net6.0\Attendance_Management_System.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\p1357950\Desktop\Attendance\Attendance_Management_System.Infrastructure\obj\Debug\net6.0\Attendance_Management_System.Infrastructure.AssemblyInfo.cs
+C:\Users\p1357950\Desktop\Attendance\Attendance_Management_System.Infrastructure\obj\Debug\net6.0\Attendance_Management_System.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\p1357950\Desktop\Attendance\Attendance_Management_System.Infrastructure\obj\Debug\net6.0\Attendance_Management_System.Infrastructure.csproj.CopyComplete
+C:\Users\p1357950\Desktop\Attendance\Attendance_Management_System.Infrastructure\obj\Debug\net6.0\Attendance_Management_System.Infrastructure.dll
+C:\Users\p1357950\Desktop\Attendance\Attendance_Management_System.Infrastructure\obj\Debug\net6.0\refint\Attendance_Management_System.Infrastructure.dll
+C:\Users\p1357950\Desktop\Attendance\Attendance_Management_System.Infrastructure\obj\Debug\net6.0\Attendance_Management_System.Infrastructure.pdb
+C:\Users\p1357950\Desktop\Attendance\Attendance_Management_System.Infrastructure\obj\Debug\net6.0\ref\Attendance_Management_System.Infrastructure.dll

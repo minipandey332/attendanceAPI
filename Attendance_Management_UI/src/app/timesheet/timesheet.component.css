@@ -1,0 +1,53 @@
+.card {
+  width: 390px;
+  height: 450px;
+  margin: 20px;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  display: flex;
+  flex-direction: column;
+  border-radius: 15px;
+}
+
+.card-body {
+  padding: 10px;
+}
+
+.card-title {
+  font-size: 1.25rem;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.card-subtitle {
+  font-size: 1rem;
+  color: #777;
+  margin-bottom: 10px;
+}
+
+.card-text {
+  font-size: 1rem;
+  margin-bottom: 20px;
+}
+
+.chart {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
+  
+  
+}
+
+
+/* Styles for screens with a max-width of 768px (tablets and smaller) */
+@media (max-width: 768px) {
+  .card {
+    width: 100%; /* Make the card full width on smaller screens */
+    height: auto; /* Allow the card's height to adjust based on content */
+    margin: 10px 0; /* Remove horizontal margin and add vertical margin */
+  }
+}
+
+/* Add your ngx-charts-pie-chart specific styles here */

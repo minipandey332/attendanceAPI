@@ -1,0 +1,40 @@
+<div class="card" >
+  <div class="card-body">
+    <h5 class="card-title">Timesheet</h5>
+    <h6 class="card-subtitle mb-2 text-body-secondary">Card subtitle</h6>
+    <p class="card-text">Time</p>
+
+
+<div class="container">
+  <h2>Weekly Progress</h2>
+  <p>Completed Hours: {{ completedHoursForWeek }} / {{ weeklyHours }}</p>
+  <p>Remaining Hours: {{ remainingWeeklyHours }}</p>
+  <div class="progress">
+    <div
+      class="progress-bar"
+      role="progressbar"
+      [style.width.%]="(completedHoursForWeek / weeklyHours) * 100"
+      [ngClass]="getProgressBarColor(weeklyCompletionPercentage)"
+    >
+      {{ completedHoursForWeek }} / {{ weeklyHours }} hrs
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <h2>Monthly Progress</h2>
+  <p>Completed Hours: {{ completedHoursForMonths }} / {{ monthlyHours }}</p>
+  <p>Remaining Hours: {{ remainingMonthlyHours }}</p>
+  <div class="progress">
+    <div
+      class="progress-bar"
+      role="progressbar"
+      [style.width.%]="(completedHoursForMonths / monthlyHours) * 100"
+      [ngClass]="getProgressBarColor(monthlyCompletionPercentage)"
+    >
+      {{ completedHoursForMonths }} / {{ monthlyHours }} hrs
+    </div>
+  </div>
+</div>
+  </div>
+</div>
