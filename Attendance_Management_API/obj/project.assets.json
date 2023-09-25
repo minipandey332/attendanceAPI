@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\p1357950\\Desktop\\git clone attendance\\attendanceAPI\\Attendance_Management_API\\Attendance_Management_System.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\p1357950\\Desktop\\Attendance\\Attendance_Management_API\\Attendance_Management_System.Domain.csproj",
       "projectName": "Attendance_Management_System.Domain",
-      "projectPath": "C:\\Users\\p1357950\\Desktop\\git clone attendance\\attendanceAPI\\Attendance_Management_API\\Attendance_Management_System.Domain.csproj",
+      "projectPath": "C:\\Users\\p1357950\\Desktop\\Attendance\\Attendance_Management_API\\Attendance_Management_System.Domain.csproj",
       "packagesPath": "C:\\Users\\p1357950\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\p1357950\\Desktop\\git clone attendance\\attendanceAPI\\Attendance_Management_API\\obj\\",
+      "outputPath": "C:\\Users\\p1357950\\Desktop\\Attendance\\Attendance_Management_API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\p1357950\\AppData\\Roaming\\NuGet\\NuGet.Config",

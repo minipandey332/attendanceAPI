@@ -7,12 +7,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Attendance_Management_API\Attendance_Management_System.Domain.csproj" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.21" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="IRepositories\" />
-    <Folder Include="Repositories\" />
+    <ProjectReference Include="..\Attendance_Management_API\Attendance_Management_System.Domain.csproj" />
   </ItemGroup>
 
 </Project>
