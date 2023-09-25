@@ -3830,7 +3830,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
-          "Attendance_Management_System.Domain": "1.0.0"
+          "Attendance_Management_System.Domain": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "6.0.21"
         },
         "compile": {
           "bin/placeholder/Attendance_Management_System.Infrastructure.dll": {}
@@ -10939,11 +10940,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\p1357950\\Desktop\\Attendance\\Attendance_Management_System.Application\\Attendance_Management_System.Application.csproj",
+      "projectUniqueName": "C:\\Users\\p1357950\\Desktop\\git clone attendance\\attendanceAPI\\Attendance_Management_System.Application\\Attendance_Management_System.Application.csproj",
       "projectName": "Attendance_Management_System.Application",
-      "projectPath": "C:\\Users\\p1357950\\Desktop\\Attendance\\Attendance_Management_System.Application\\Attendance_Management_System.Application.csproj",
+      "projectPath": "C:\\Users\\p1357950\\Desktop\\git clone attendance\\attendanceAPI\\Attendance_Management_System.Application\\Attendance_Management_System.Application.csproj",
       "packagesPath": "C:\\Users\\p1357950\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\p1357950\\Desktop\\Attendance\\Attendance_Management_System.Application\\obj\\",
+      "outputPath": "C:\\Users\\p1357950\\Desktop\\git clone attendance\\attendanceAPI\\Attendance_Management_System.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\p1357950\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -10961,11 +10962,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\p1357950\\Desktop\\Attendance\\Attendance_Management_API\\Attendance_Management_System.Domain.csproj": {
-              "projectPath": "C:\\Users\\p1357950\\Desktop\\Attendance\\Attendance_Management_API\\Attendance_Management_System.Domain.csproj"
+            "C:\\Users\\p1357950\\Desktop\\git clone attendance\\attendanceAPI\\Attendance_Management_API\\Attendance_Management_System.Domain.csproj": {
+              "projectPath": "C:\\Users\\p1357950\\Desktop\\git clone attendance\\attendanceAPI\\Attendance_Management_API\\Attendance_Management_System.Domain.csproj"
             },
-            "C:\\Users\\p1357950\\Desktop\\Attendance\\Attendance_Management_System.Infrastructure\\Attendance_Management_System.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\p1357950\\Desktop\\Attendance\\Attendance_Management_System.Infrastructure\\Attendance_Management_System.Infrastructure.csproj"
+            "C:\\Users\\p1357950\\Desktop\\git clone attendance\\attendanceAPI\\Attendance_Management_System.Infrastructure\\Attendance_Management_System.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\p1357950\\Desktop\\git clone attendance\\attendanceAPI\\Attendance_Management_System.Infrastructure\\Attendance_Management_System.Infrastructure.csproj"
             }
           }
         }

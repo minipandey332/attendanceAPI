@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+8zntpaqEkh0o1JznF9RX2LT2mg2R+cxnZ+PTAZAXPlr4mJfTiqzaIyV1K+TDdAouwBO+EdG+NERf+NS53Xz7g==",
+  "dgSpecHash": "ebfHBVIWrufwxjLJVfaXAzOz3vB9nTjiwc1G77/OnQnLnaPuRZu5suHZnPNt5M6iA53MUccpt4ZwXbiBRiFhtA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\p1357950\\Desktop\\Attendance\\Attendance_Management_System.Application\\Attendance_Management_System.Application.csproj",
+  "projectFilePath": "C:\\Users\\p1357950\\Desktop\\git clone attendance\\attendanceAPI\\Attendance_Management_System.Application\\Attendance_Management_System.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\p1357950\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\p1357950\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

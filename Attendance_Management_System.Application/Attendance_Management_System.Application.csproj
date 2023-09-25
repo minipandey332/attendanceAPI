@@ -21,11 +21,4 @@
     <ProjectReference Include="..\Attendance_Management_System.Infrastructure\Attendance_Management_System.Infrastructure.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Interfaces\" />
-    <Folder Include="Mappings\" />
-    <Folder Include="DTOs\" />
-    <Folder Include="Services\" />
-  </ItemGroup>
-
 </Project>

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "j2mquQFU7zNuV35Q5ZiwVAtdoIAj9fZtCxwYxG04esFqPEo5AsNmK6roXrxH+G9KDVr07KW/obwissto9EDAbw==",
+  "dgSpecHash": "RVIsp2S7+FkxOnBDXS4f5v7hlLHhs+cELWz2+PelG9g6irQ0jMRJJQOnly9DlE4LRn5ma+tkk3XZtMEoaN59Eg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\p1357950\\Desktop\\Attendance\\Attendance_Management_System.Infrastructure\\Attendance_Management_System.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\p1357950\\Desktop\\git clone attendance\\attendanceAPI\\Attendance_Management_System.Infrastructure\\Attendance_Management_System.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\p1357950\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.21\\microsoft.entityframeworkcore.6.0.21.nupkg.sha512",
     "C:\\Users\\p1357950\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.21\\microsoft.entityframeworkcore.abstractions.6.0.21.nupkg.sha512",

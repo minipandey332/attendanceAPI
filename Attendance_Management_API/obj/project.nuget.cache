@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yP5nK76UVtMGdiAKVpyEuud7vFy2TwPQjbTAtq45/qv6j04WLWHNhZryRPy37UCrh5pnXLTyNMxOVRij+CFEvA==",
+  "dgSpecHash": "HKfsbpn87fq2pPXrU50vsT6y1HzzBhqclu3S9ULzPdrji8A0SPDa6sPvT6qYWfxHgdOb06ApbKcMqQwR5ouRzA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\p1357950\\Desktop\\Attendance\\Attendance_Management_API\\Attendance_Management_System.Domain.csproj",
+  "projectFilePath": "C:\\Users\\p1357950\\Desktop\\git clone attendance\\attendanceAPI\\Attendance_Management_API\\Attendance_Management_System.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

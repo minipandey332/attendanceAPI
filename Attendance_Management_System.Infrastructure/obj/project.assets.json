@@ -601,11 +601,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\p1357950\\Desktop\\Attendance\\Attendance_Management_System.Infrastructure\\Attendance_Management_System.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\p1357950\\Desktop\\git clone attendance\\attendanceAPI\\Attendance_Management_System.Infrastructure\\Attendance_Management_System.Infrastructure.csproj",
       "projectName": "Attendance_Management_System.Infrastructure",
-      "projectPath": "C:\\Users\\p1357950\\Desktop\\Attendance\\Attendance_Management_System.Infrastructure\\Attendance_Management_System.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\p1357950\\Desktop\\git clone attendance\\attendanceAPI\\Attendance_Management_System.Infrastructure\\Attendance_Management_System.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\p1357950\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\p1357950\\Desktop\\Attendance\\Attendance_Management_System.Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\p1357950\\Desktop\\git clone attendance\\attendanceAPI\\Attendance_Management_System.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\p1357950\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -623,8 +623,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\p1357950\\Desktop\\Attendance\\Attendance_Management_API\\Attendance_Management_System.Domain.csproj": {
-              "projectPath": "C:\\Users\\p1357950\\Desktop\\Attendance\\Attendance_Management_API\\Attendance_Management_System.Domain.csproj"
+            "C:\\Users\\p1357950\\Desktop\\git clone attendance\\attendanceAPI\\Attendance_Management_API\\Attendance_Management_System.Domain.csproj": {
+              "projectPath": "C:\\Users\\p1357950\\Desktop\\git clone attendance\\attendanceAPI\\Attendance_Management_API\\Attendance_Management_System.Domain.csproj"
             }
           }
         }
