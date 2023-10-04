@@ -10,3 +10,15 @@ C:\Users\p1357950\Desktop\Attendance\Attendance_Management_API\obj\Debug\net6.0\
 C:\Users\p1357950\Desktop\Attendance\Attendance_Management_API\obj\Debug\net6.0\refint\Attendance_Management_System.Domain.dll
 C:\Users\p1357950\Desktop\Attendance\Attendance_Management_API\obj\Debug\net6.0\Attendance_Management_System.Domain.pdb
 C:\Users\p1357950\Desktop\Attendance\Attendance_Management_API\obj\Debug\net6.0\ref\Attendance_Management_System.Domain.dll
+C:\Users\p1357950\Desktop\git clone attendance\attendanceAPI\Attendance_Management_API\bin\Debug\net6.0\Attendance_Management_System.Domain.deps.json
+C:\Users\p1357950\Desktop\git clone attendance\attendanceAPI\Attendance_Management_API\bin\Debug\net6.0\Attendance_Management_System.Domain.dll
+C:\Users\p1357950\Desktop\git clone attendance\attendanceAPI\Attendance_Management_API\bin\Debug\net6.0\Attendance_Management_System.Domain.pdb
+C:\Users\p1357950\Desktop\git clone attendance\attendanceAPI\Attendance_Management_API\obj\Debug\net6.0\Attendance_Management_System.Domain.csproj.AssemblyReference.cache
+C:\Users\p1357950\Desktop\git clone attendance\attendanceAPI\Attendance_Management_API\obj\Debug\net6.0\Attendance_Management_System.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\p1357950\Desktop\git clone attendance\attendanceAPI\Attendance_Management_API\obj\Debug\net6.0\Attendance_Management_System.Domain.AssemblyInfoInputs.cache
+C:\Users\p1357950\Desktop\git clone attendance\attendanceAPI\Attendance_Management_API\obj\Debug\net6.0\Attendance_Management_System.Domain.AssemblyInfo.cs
+C:\Users\p1357950\Desktop\git clone attendance\attendanceAPI\Attendance_Management_API\obj\Debug\net6.0\Attendance_Management_System.Domain.csproj.CoreCompileInputs.cache
+C:\Users\p1357950\Desktop\git clone attendance\attendanceAPI\Attendance_Management_API\obj\Debug\net6.0\Attendance_Management_System.Domain.dll
+C:\Users\p1357950\Desktop\git clone attendance\attendanceAPI\Attendance_Management_API\obj\Debug\net6.0\refint\Attendance_Management_System.Domain.dll
+C:\Users\p1357950\Desktop\git clone attendance\attendanceAPI\Attendance_Management_API\obj\Debug\net6.0\Attendance_Management_System.Domain.pdb
+C:\Users\p1357950\Desktop\git clone attendance\attendanceAPI\Attendance_Management_API\obj\Debug\net6.0\ref\Attendance_Management_System.Domain.dll

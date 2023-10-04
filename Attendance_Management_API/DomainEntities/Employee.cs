@@ -9,10 +9,17 @@ namespace Attendance_Management_System.Domain.DomainEntities
 {
     public class Employee
     {
+
         [Key]
-        public int EmployeeId { get; set; }
-
+        public int Id { get; set; }
+        [Required]
+        public long EmployeeId { get; set; }
         public string EmployeeName { get; set; }
+        public string X { get; set; }
 
-    }
+        // Navigation property for related date data
+        public List<EmployeeDateData> DateData { get; set; }
+ 
+
+}
 }

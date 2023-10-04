@@ -1,4 +1,5 @@
 ﻿using Attendance_Management_System.Domain.DomainEntities;
+using Attendance_Management_System.Infrastructure.Data;
 using Attendance_Management_System.Infrastructure.IRepositories;
 using System;
 using System.Collections.Generic;
@@ -8,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace Attendance_Management_System.Infrastructure.Repositories
 {
-    internal class EmployeeRepository : IEmployeeRepository
+    public class EmployeeRepository : IEmployeeRepository
     {
         private readonly ApplicationDbContext _context;
 
@@ -19,6 +20,7 @@ namespace Attendance_Management_System.Infrastructure.Repositories
 
         public void AddEmployee(Employee employee)
         {
+            Console.WriteLine(".................", employee.EmployeeName);
             _context.Employees.Add(employee);
             _context.SaveChanges();
         }
@@ -32,4 +34,4 @@ namespace Attendance_Management_System.Infrastructure.Repositories
      
     }
 }
-}
+
